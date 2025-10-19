@@ -17,3 +17,5 @@ Erstelle in wenigen Minuten deinen eigenen Windows-Installer — ohne Programmie
 - Kompatibel mit Windows 10 und 11 mehr Betriebsysteme kommen! (getestet mit Python 3.10+)
 
 - Offener Code – leicht anpassbar und erweiterbar
+
+- Installiert wird voreingestellt nach AppData. Keine Adminberechtigungen nötig!
