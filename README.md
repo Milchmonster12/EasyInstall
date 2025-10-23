@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/9bc83b43-faad-4fa9-9484-6c412823cb21)
+
 # EasyInstall
 Erstelle in wenigen Minuten deinen eigenen Windows-Installer — ohne Programmierkenntnisse. Mache von jeder .exe (und Hilfsdatein) ein eigenen Installer!
 ### Aktuell noch in Entwicklung, erste Version kommt bald
