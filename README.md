@@ -1,6 +1,6 @@
 # REPO Info: Version
 ### Hier werden die Versionen.
-**NEU!** erste BETA ist raus. 0.1 Benutzungsinfos liegen im README.txt bei oder hier.
+**NEU!** erste BETA ist raus. 0.1 Benutzungsinfos liegen im README.txt bei oder hier. **[Download](https://github.com/Milchmonster12/EasyInstall/blob/version/0.1/0.1_BETA_EasyInstall.zip)** 
 ## Aktuelle Version: 0.1 BETA
 **Wichtig! Die Version kann Fehler und Probleme enthalten!**
 
