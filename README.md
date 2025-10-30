@@ -3,7 +3,8 @@
 # EasyInstall
 Erstelle in wenigen Minuten deinen eigenen Windows-Installer — ohne Programmierkenntnisse. Mache von jeder .exe (und Hilfsdatein) ein eigenen Installer!
 # Aktuell noch in Entwicklung, erste Version ist da! [Download](https://github.com/Milchmonster12/EasyInstall/blob/version/0.1/0.1_BETA_EasyInstall.zip) 
-## Vollversion Release 1.0: 30.10.2025
+## Vollversion Release 1.0: 10.11.2025
+**Verschoben!**
 
 ## 🧰 EasyInstall
 
